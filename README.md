@@ -9,7 +9,7 @@ jiromaykin/jiromaykin is a ✨ special ✨ repository (comment)
 --->
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jolarti"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/jirosworld"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
 ---
