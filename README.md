@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @JirosWorld
-- 👀 I’m interested in open-source development and accessibility.
-- 🌱 I’m currently learning Django, SCSS, Rebasing Git, React designpatterns.
-- 💞️ I’m looking to collaborate on anything!
+- 👋 Hi, I’m @JirosWorld. 👀 I’m interested in open-source development and accessibility. 🌱 I’m currently learning Django, SCSS, Rebasing Git, React designpatterns. 💞️
 - 📫 How to reach me: [@Jiromaykin](https://github.com/jiromaykin) on Github and @Jirosworld anywhere else.
 
 <!---
